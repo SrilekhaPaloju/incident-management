@@ -1,0 +1,13 @@
+ID,AuthorName,title,Stock,AuthorNumber,address_Id,Bookdetails_Id
+afea7fbb-6b94-43f3-8f3e-2e0f6b8742b3,John Smith,The Lost World,120,9951234567,101,1
+c718ea21-0b37-4cc9-899b-7f4389e356d2,Jane Doe,The Silent Sea,75,9952345678,102,2
+f2dc7b22-c785-47ff-94d6-4d21d1ae3b35,Robert Brown,The Silver Sword,200,8973456789,103,3
+a8c395a6-1c29-4707-a4f1-3293ff032db8,Emily Clark,The Golden Compass,130,8974567890,104,4
+bfdcc1a9-c029-47a8-9b72-54f7e74c8306,Sarah Wilson,The Hidden Kingdom,85,8975678901,105,5
+342f45da-e2d3-45e8-8d2b-7a88d2a443f5,Michael Scott,The Secret Garden,100,8976789012,106,6
+f09141e3-f3db-4a2e-bf0a-7f416dc68985,Linda Thompson,The Red Planet,110,8977890123,107,7
+ba45e6b7-5a62-4e2f-bc72-2a1a9274833d,James Taylor,The Lost Star,65,8978901234,108,8
+7c5a1d98-d2a3-4e6f-a2b7-1f4f5e7c93d6,Charlotte Green,The Blue Lagoon,90,8979012345,109,9
+d8b18c4c-8c2b-49c6-9a43-1efad22d6a1d,Mark Johnson,The Secret Society,125,8970123456,110,10
+1c3a7fb4-6d5e-4d3b-b3f7-21e1c9f7e1f4,Rachel Lee,The Last Voyage,70,8971234567,111,11
+3ae1f672-d5d1-4569-9d7b-9c5f9fdb8323,Thomas Brown,The Endless Sea,140,8972345678,112,12
