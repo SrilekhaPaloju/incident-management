@@ -7,13 +7,13 @@ entity Books :cuid {
   title        : String;
   Stock        : Integer;
   AuthorNumber : String;
-  address      : Composition of many Address;
-  bookdetails  : Composition of many Bookdetails;
+  address      : Association to  Address;
+  bookdetails  : Association to Bookdetails;
 }
 
 entity Address :cuid {
   city     : String;
-  address  : String;
+  addresses  : String;
   pincode  : String;
   street   : String;
   landmark : String;
